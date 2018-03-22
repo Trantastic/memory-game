@@ -22,3 +22,10 @@ To run this app on your own computer, fork and/or clone this repo then:
 * JavaScript
 * [Yarn](https://yarnpkg.com/en/)
 * HTM/CSS
+* Bootstrap v4
+
+## Future Developments
+
+* Replace the alerts when a player wins or loses with a bootstrap modal
+* Include a "Top Score" feature to log a player's best score if they keep playing
+* Add more cards to make the game more difficult
