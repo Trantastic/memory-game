@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Tina1",
+    "image": "./img/tina1.png"
+  },
+  {
+    "id": 2,
+    "name": "Tina2",
+    "image": "./img/tina2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Tina3",
+    "image": "./img/tina3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Gene1",
+    "image": "./img/gene1.png"
+  },
+  {
+    "id": 5,
+    "name": "Gene2",
+    "image": "./img/gene2.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Bob1",
+    "image": "./img/bob1.png"
+  },
+  {
+    "id": 7,
+    "name": "Bob2",
+    "image": "./img/bob2.png"
+  },
+  {
+    "id": 8,
+    "name": "Bob3",
+    "image": "./img/bob3.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Linda1",
+    "image": "./img/linda1.png"
+  },
+  {
+    "id": 10,
+    "name": "Linda2",
+    "image": "./img/linda2.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Linda3",
+    "image": "./img/linda3.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Gene3",
+    "image": "./img/gene3.png"
+  }
+]

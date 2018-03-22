@@ -1,0 +1,16 @@
+.card {
+  border-radius: 20px;
+  height: 200px;
+  margin: 1rem;
+  width: 200px;
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  cursor: pointer;
+}
+
+img {
+  width: auto;
+  height: 60%;
+  margin-top: 10%;
+  margin-left: 30%;
+}
+

@@ -1,0 +1,6 @@
+.jumbotron {
+	background-image: url("img/burger.png");
+	background-repeat: round;
+	font-family: 'Permanent Marker', cursive;
+	margin-top: 12em;
+}
